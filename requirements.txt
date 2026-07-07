@@ -1,5 +1,0 @@
-streamlit
-pandas
-openpyxl
-plotly
-fpdf2
